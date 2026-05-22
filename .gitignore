@@ -1,0 +1,5 @@
+*.pgn
+scores.json
+save.json
+__pycache__/
+*.pyc
